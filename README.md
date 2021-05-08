@@ -1,7 +1,7 @@
 # billtracker
 A fullstack bill tracker application to help users track monthly expenses and purchases.
 
-You can checkout the website [here](billtracker.me)
+You can checkout the website [here](billtracker.me) (billtracker.me)
 
 ### Tools
 * MongoDB
