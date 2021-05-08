@@ -21,9 +21,9 @@ You can checkout the website [here](billtracker.me)
 * Dashboard display of bills paid and to be paid
 
 Created by:
-[Derek Wang](https://github.com/Derek-Y-Wang)
-[Basil Kanaan](https://github.com/Bb0lt)
-[Nabeel Dar](https://github.com/NabeelDar)
-[Niral Patel](https://github.com/niralpatel02)
-[Siraj Mohammed](https://github.com/dark7866)
-[Arsh Dhillon](https://github.com/ArshD1230)
+[Derek Wang](https://github.com/Derek-Y-Wang), 
+[Basil Kanaan](https://github.com/Bb0lt), 
+[Nabeel Dar](https://github.com/NabeelDar), 
+[Niral Patel](https://github.com/niralpatel02), 
+[Siraj Mohammed](https://github.com/dark7866), 
+[Arsh Dhillon](https://github.com/ArshD1230), 
